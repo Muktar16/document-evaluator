@@ -1,0 +1,32 @@
+
+Document Evaluation Report
+==========================
+Document Type: Project Overview
+Overall Score: 45.71%
+Total Word Count: 599
+
+Section Scores:
+- Introduction: 0.00%
+- Key Features: 50.00%
+- Target User: 33.33%
+- User Access Levels: 100.00%
+- Purpose: 16.67%
+- Technology Stack: 50.00%
+- Conclusion: 0.00%
+
+Feedback:
+- Introduction: Word count below minimum (72/100). Missing keywords: purpose, scope, objectives. 
+- Key Features: Word count requirement met (164 words). Missing keywords: functionality, benefits, unique. 
+- Target User: Word count below minimum (47/75). Missing keywords: demographic. 
+- User Access Levels: Word count requirement met (153 words). All required keywords found. 
+- Purpose: Word count below minimum (59/75). Missing keywords: goal, objective. 
+- Technology Stack: Word count below minimum (47/100). All required keywords found. 
+- Conclusion: Word count below minimum (54/75). Missing keywords: summary, future, next steps. 
+- Overall word count requirement met (599 words).
+
+Missing Keywords:
+- Introduction: purpose, scope, objectives
+- Key Features: functionality, benefits, unique
+- Target User: demographic
+- Purpose: goal, objective
+- Conclusion: summary, future, next steps
